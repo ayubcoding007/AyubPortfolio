@@ -186,7 +186,7 @@ const Contact = () => {
               )}
               
               <p className="form-note">
-                <small>Form data is sent to my backend API at <code>https://api-ayubtechit.vercel.app</code> and I'll receive an email notification immediately.</small>
+                <small>Form data is sent to my backend API at <code>https://submit-form-api.vercel.app</code> and I'll receive an email notification immediately.</small>
               </p>
             </form>
           </div>
